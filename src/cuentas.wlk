@@ -1,4 +1,6 @@
 
+//No le cambié nombre al principio y figuro como MauriBian, por eso lo subo de vuelta
+
 object cuentaDePepe {
 	var saldo = 0
 	method saldo() = saldo
